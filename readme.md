@@ -5,11 +5,9 @@ This repository contains code of 3 graphs in python which were given to me as as
 
 ## Clone the repository to your local machine
 
-## Install jupyter notebook in yor system by typing in the terminal:
-pip install jupyter
+## Install jupyter notebook in yor system by typing "pip install jupyter" in the terminal:
 
-## Open Jupyter notebook by opening terminal in your cloned repository and typing:
-jupyter notebook
+## Open Jupyter notebook by opening terminal in your cloned repository and typing "jupyter notebook"
 
 ## Jupyter notebook will get opened in your default browser 
 
