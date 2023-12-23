@@ -1,4 +1,4 @@
-# Python Gaph Assignment
+# Python Graph Assignment
 This repository contains code of 3 graphs in python which were given to me as assignments.
 
 # Getting Started
