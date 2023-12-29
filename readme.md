@@ -26,3 +26,7 @@ pip install openpyxl
 
 ## Don't close the terminal running Jupyter or you'll not be able to see changes
 
+<<<<<<< HEAD
+=======
+# Don't close the terminal running Jupyter or you'll not be able to see changes
+>>>>>>> 0ac7eb316981835960713509cd8675e605c7b6aa
