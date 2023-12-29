@@ -18,15 +18,10 @@ This repository contains code of 3 graphs in python which were given to me as as
 ## Choose python kernel.
 
 ## For successfuly running the code you'll have to install modules by opening terminal and typing:
-pip install pandas
-pip install matplotlib
-pip install openpyxl
+- pip install pandas
+- pip install matplotlib
+- pip install openpyxl
 
 ## Now you can run the graph code on each cell by clicking on the run button.
 
 ## Don't close the terminal running Jupyter or you'll not be able to see changes
-
-<<<<<<< HEAD
-=======
-# Don't close the terminal running Jupyter or you'll not be able to see changes
->>>>>>> 0ac7eb316981835960713509cd8675e605c7b6aa
